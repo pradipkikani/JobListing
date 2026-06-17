@@ -1,0 +1,202 @@
+[
+  {
+    "id": "1",
+    "title": "Senior iOS Developer",
+    "company": "Google",
+    "location": "Bangalore",
+    "salary": "₹25L - ₹40L",
+    "description": "Develop and maintain scalable iOS applications using SwiftUI, UIKit, and modern architecture patterns."
+  },
+  {
+    "id": "2",
+    "title": "iOS Engineer",
+    "company": "Amazon",
+    "location": "Hyderabad",
+    "salary": "₹18L - ₹30L",
+    "description": "Build customer-facing mobile applications with focus on performance and user experience."
+  },
+  {
+    "id": "3",
+    "title": "Mobile Architect",
+    "company": "Microsoft",
+    "location": "Remote",
+    "salary": "₹35L - ₹55L",
+    "description": "Lead architecture decisions and mentor engineering teams across multiple mobile products."
+  },
+  {
+    "id": "4",
+    "title": "SwiftUI Developer",
+    "company": "Infosys",
+    "location": "Pune",
+    "salary": "₹12L - ₹18L",
+    "description": "Create modern and reusable SwiftUI components for enterprise applications."
+  },
+  {
+    "id": "5",
+    "title": "Senior Mobile Engineer",
+    "company": "Flipkart",
+    "location": "Bangalore",
+    "salary": "₹22L - ₹38L",
+    "description": "Work on high-scale e-commerce applications and optimize app performance."
+  },
+  {
+    "id": "6",
+    "title": "iOS Application Developer",
+    "company": "TCS",
+    "location": "Ahmedabad",
+    "salary": "₹10L - ₹16L",
+    "description": "Develop secure and maintainable iOS applications for enterprise clients."
+  },
+  {
+    "id": "7",
+    "title": "Lead iOS Engineer",
+    "company": "Paytm",
+    "location": "Noida",
+    "salary": "₹28L - ₹45L",
+    "description": "Lead a team of developers and drive technical excellence in mobile applications."
+  },
+  {
+    "id": "8",
+    "title": "Mobile Developer",
+    "company": "Swiggy",
+    "location": "Bangalore",
+    "salary": "₹15L - ₹25L",
+    "description": "Build reliable and scalable delivery platform experiences."
+  },
+  {
+    "id": "9",
+    "title": "Senior Software Engineer - iOS",
+    "company": "Zomato",
+    "location": "Gurgaon",
+    "salary": "₹20L - ₹35L",
+    "description": "Develop innovative food delivery experiences using Swift and SwiftUI."
+  },
+  {
+    "id": "10",
+    "title": "iOS Consultant",
+    "company": "Accenture",
+    "location": "Chennai",
+    "salary": "₹14L - ₹24L",
+    "description": "Work with global clients to design and implement mobile solutions."
+  },
+  {
+    "id": "11",
+    "title": "Principal iOS Engineer",
+    "company": "Adobe",
+    "location": "Bangalore",
+    "salary": "₹40L - ₹70L",
+    "description": "Drive architecture, standards, and best practices across mobile engineering teams."
+  },
+  {
+    "id": "12",
+    "title": "iOS Developer",
+    "company": "Wipro",
+    "location": "Mumbai",
+    "salary": "₹8L - ₹15L",
+    "description": "Develop and maintain native iOS applications using Swift."
+  },
+  {
+    "id": "13",
+    "title": "Mobile Software Engineer",
+    "company": "Razorpay",
+    "location": "Bangalore",
+    "salary": "₹18L - ₹32L",
+    "description": "Build secure fintech applications and payment experiences."
+  },
+  {
+    "id": "14",
+    "title": "Senior Swift Developer",
+    "company": "Freshworks",
+    "location": "Chennai",
+    "salary": "₹20L - ₹34L",
+    "description": "Implement scalable mobile solutions and collaborate with product teams."
+  },
+  {
+    "id": "15",
+    "title": "iOS Team Lead",
+    "company": "Zoho",
+    "location": "Chennai",
+    "salary": "₹24L - ₹38L",
+    "description": "Lead a team of mobile engineers and manage feature delivery."
+  },
+  {
+    "id": "16",
+    "title": "Mobile Platform Engineer",
+    "company": "PhonePe",
+    "location": "Bangalore",
+    "salary": "₹25L - ₹42L",
+    "description": "Develop reusable frameworks and SDKs for mobile teams."
+  },
+  {
+    "id": "17",
+    "title": "iOS Engineer II",
+    "company": "Myntra",
+    "location": "Bangalore",
+    "salary": "₹16L - ₹28L",
+    "description": "Build shopping experiences with focus on performance and scalability."
+  },
+  {
+    "id": "18",
+    "title": "Senior App Developer",
+    "company": "Cognizant",
+    "location": "Coimbatore",
+    "salary": "₹12L - ₹20L",
+    "description": "Design and develop enterprise-grade iOS applications."
+  },
+  {
+    "id": "19",
+    "title": "Swift Engineer",
+    "company": "Capgemini",
+    "location": "Pune",
+    "salary": "₹14L - ₹22L",
+    "description": "Work on native iOS development projects and contribute to code quality initiatives."
+  },
+  {
+    "id": "20",
+    "title": "Senior Mobile Architect",
+    "company": "IBM",
+    "location": "Remote",
+    "salary": "₹35L - ₹60L",
+    "description": "Define architecture and technical roadmaps for enterprise mobile products."
+  },
+  {
+    "id": "21",
+    "title": "iOS Developer",
+    "company": "HCL Technologies",
+    "location": "Noida",
+    "salary": "₹9L - ₹16L",
+    "description": "Build and support native iOS applications for global clients."
+  },
+  {
+    "id": "22",
+    "title": "Senior Software Developer",
+    "company": "Oracle",
+    "location": "Bangalore",
+    "salary": "₹22L - ₹36L",
+    "description": "Develop cloud-integrated mobile applications and frameworks."
+  },
+  {
+    "id": "23",
+    "title": "Mobile Engineer",
+    "company": "Meesho",
+    "location": "Bangalore",
+    "salary": "₹15L - ₹27L",
+    "description": "Build innovative shopping and seller experiences on iOS."
+  },
+  {
+    "id": "24",
+    "title": "Lead SwiftUI Developer",
+    "company": "Jio Platforms",
+    "location": "Mumbai",
+    "salary": "₹20L - ₹35L",
+    "description": "Lead development of SwiftUI-based applications and mentor team members."
+  },
+  {
+    "id": "25",
+    "title": "Senior iOS Consultant",
+    "company": "Deloitte",
+    "location": "Hyderabad",
+    "salary": "₹18L - ₹32L",
+    "description": "Deliver enterprise mobile solutions and provide technical consulting."
+  }
+]
